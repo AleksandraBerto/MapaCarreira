@@ -2,6 +2,9 @@
 
 > Mapa de carreira visual criado para organizar minha evolução profissional na área de Desenvolvimento Web e Engenharia de Software.
 
+## Acesse meu Mapa de Carreira
+https://aleksandraberto.github.io/MapaCarreira/
+
 ## Sobre
 Este repositório contém o projeto **Mapa de Carreira**: uma página/landing page que apresenta minha trajetória profissional, objetivos, roadmaps de aprendizado e as principais competências técnicas e comportamentais. O objetivo é servir como guia pessoal e também como material para currículo/portfólio.
 
@@ -38,3 +41,4 @@ Este repositório contém o projeto **Mapa de Carreira**: uma página/landing pa
 
 
 👩🏽‍💻 Projeto desenvolvido por Aleksandra Berto
+
